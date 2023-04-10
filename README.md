@@ -8,7 +8,7 @@
 
 <ul>
   <li><a href="https://github.com/elizaup/TRECS_AIRBNB">Rently</a>: an Airbnb clone.</li>
-  <li><a href="http://www.trecs.world/">TRECS</a>: a travel recommendations app.</li>
+  <li><a href="https://github.com/mktraynor/TRECS">TRECS</a>: a travel recommendations app.</li>
 </ul>
 
 💻 **My portfolio: [https://troopl.com/mktraynor](https://troopl.com/mktraynor)**
