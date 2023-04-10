@@ -1,6 +1,6 @@
 ### Hi, I'm Mary 👋
 
-👩‍💻 **I am a Junior Full Stack Web Developer, from the USA, living in the UK.**
+👩‍💻 **I am a Junior Web Developer, from the USA, living in the UK.**
 
 🎓 **I recently graduated from [Le Wagon](https://www.lewagon.com/).**
 
